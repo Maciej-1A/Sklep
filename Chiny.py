@@ -8,5 +8,3 @@ class Chiny(Firma_base):
         print(f"lokacja {self.lokacja}")
         print(f"sila robocza {self.workforce}")
         print(f"material {self.material}")
-China = Chiny("Chiny.inc", "case", "Chiny", "dzieci (z Chin)", "kosc udowa")
-China.info1
