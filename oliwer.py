@@ -5,12 +5,6 @@ class Pracownik:
         self.wiek = wiek 
         self.salery = salery
         self.firma = firma
-    # def budowa_komp(self):
-    #     if self.wiedza_na_temat_komputerow == True:
-    #         print("zbudowales komputer chuj ci w pizde")
-    #     else:
-    #          print("jestem gluptasem")
-            # self.produkt += ilosc
     def pracownik_info(self):
             print(f"mam na ime {self.imie}")
             print(f"mam {self.wiek} lat")
