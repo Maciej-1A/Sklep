@@ -5,3 +5,4 @@ class Firma_base:
         self.lokacja = lokacja
         self.workforce = workforce
         self.material = material
+
